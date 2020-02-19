@@ -1,0 +1,1 @@
+Jeff is showing us how to set up a git profile and commit changes we make.
